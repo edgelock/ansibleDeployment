@@ -1,6 +1,6 @@
 [all]
-ansibleVM
+ansible@ansibleVM
 
 [rhel]
-ansibleVM
+ansible@ansibleVM
 
