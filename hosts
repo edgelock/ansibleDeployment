@@ -1,11 +1,6 @@
 [all]
-your-server-1
-your-server-2
-your-server-3
+ansibleVM
 
-[category1]
-your-server-1
-your-server-2
+[rhel]
+ansibleVM
 
-[category2]
-your-server-3
