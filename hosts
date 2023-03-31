@@ -1,6 +1,6 @@
 [all]
-ansible@ansibleVM
+ansiblenode1 ansible_ssh_user=ansible ansible_private_key_file=key
 
 [rhel]
-ansible@ansibleVM
+ansiblenode1 ansible_ssh_user=ansible ansible_private_key_file=key
 
