@@ -1,6 +1,4 @@
 [all]
-ansiblenode1 ansible_ssh_user=ansible ansible_private_key_file=key
+20.127.139.139 ansible_ssh_user=ansible ansible_private_key_file=key
 
-[rhel]
-ansiblenode1 ansible_ssh_user=ansible ansible_private_key_file=key
 
